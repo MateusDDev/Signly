@@ -60,6 +60,14 @@ h2 {
 }
 
 @media (max-width: 480px) {
+    .title {
+        font-size: 30px;
+    }
+
+    .item {
+        font-size: 15px;
+    }
+
     .item img {
         width: 48px;
     }
