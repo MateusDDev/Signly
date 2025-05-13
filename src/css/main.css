@@ -35,7 +35,8 @@ input {
     color: #FFFFFF;
 }
 
-input:focus {
+input:focus,
+input:active {
     background-color: transparent;
 }
 
