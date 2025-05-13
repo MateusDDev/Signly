@@ -33,7 +33,6 @@ h2 {
     margin-bottom: 87px;
     justify-content: center;
     gap: 22px;
-    padding: 0px ;
 }
 
 .item {
@@ -52,4 +51,10 @@ h2 {
     height: 35px;
     border-radius: 12px;
     margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .item img {
+        width: 80px;
+    }
 }
