@@ -58,3 +58,9 @@ h2 {
         width: 80px;
     }
 }
+
+@media (max-width: 480px) {
+    .item img {
+        width: 48px;
+    }
+}
