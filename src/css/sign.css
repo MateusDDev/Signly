@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    padding-left: 25px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: #A75DC1;
+    font-size: 50px;
+}
+
+.doc-frame {
+    width: 80%;
+}
+
+.doc-frame iframe {
+    width: 100%;
+    height: calc(100vh - 200px);
+}
